@@ -66,9 +66,6 @@ LEFT JOIN `e-commerce-420222.vendas.Categoria` AS c
     ON p.category_id = c.id;
 ```
 
-### Exemplo de imagem da consulta:  
-*(inserir captura de tela do BigQuery com a execução da query acima)*  
-`![Consulta no BigQuery](./imagens/consulta-bigquery.png)`  
 
 ---
 
@@ -85,10 +82,9 @@ O painel construído no Looker Studio permite diferentes formas de análise:
 - **Top produtos vendidos** → produtos que mais geraram receita e quantidade vendida.  
 - **Faturamento por ano** → comparação entre anos para avaliar crescimento ou retração.  
 
-### Exemplo de imagem do painel:  
-*(inserir screenshot do dashboard do Looker Studio)*  
-`![Dashboard Looker Studio](./imagens/dashboard-looker.png)`  
-
+### Imagem e link do Dashboard:  
+![Imagem do Dash](imagem.png) 
+https://lookerstudio.google.com/u/0/reporting/edb24dc7-37c4-4faf-9aad-b249303a2d19/page/xFDaF
 ---
 
 ## Possíveis Insights  
