@@ -101,8 +101,3 @@ Com esse painel é possível extrair diversos insights estratégicos, como:
 
 ---
 
-## Objetivo  
-
-Fornecer uma ferramenta de monitoramento de vendas em tempo real, permitindo que gestores e analistas explorem os dados de forma interativa — desde o detalhe de um pedido específico até a visão consolidada da empresa.  
-
----
