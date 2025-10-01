@@ -58,11 +58,11 @@ SELECT
     p.name AS nome_produto,
     c.name AS nome_categoria
 FROM `e-commerce-420222.vendas.itens` AS v  -- Itens = Vendas
-LEFT JOIN `e-commerce-420222.vendas.Ordens` AS o
+JOIN `e-commerce-420222.vendas.Ordens` AS o
     ON v.order_id = o.id
-LEFT JOIN `e-commerce-420222.vendas.Produto` AS p
+JOIN `e-commerce-420222.vendas.Produto` AS p
     ON v.product_id = p.id
-LEFT JOIN `e-commerce-420222.vendas.Categoria` AS c
+JOIN `e-commerce-420222.vendas.Categoria` AS c
     ON p.category_id = c.id;
 ```
 
