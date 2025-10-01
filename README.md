@@ -84,7 +84,8 @@ O painel construído no Looker Studio permite diferentes formas de análise:
 
 ### Link do Dashboard: https://lookerstudio.google.com/u/0/reporting/edb24dc7-37c4-4faf-9aad-b249303a2d19/page/xFDaF  
 
-![Imagem do Dash](imagem.png)
+![Imagem do Dash](image.png
+)
 
 ---
 ## Possíveis Insights  
