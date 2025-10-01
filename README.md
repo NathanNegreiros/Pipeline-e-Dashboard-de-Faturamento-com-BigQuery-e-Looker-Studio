@@ -1,4 +1,4 @@
-# Pipeline-e-Dashboard-de-Faturamento-com-BigQuery-e-Looker-Studio
+# Monitoramento de Vendas – BigQuery + Looker Studio 
 Integração de dados no BigQuery com visualização em Looker Studio, aplicando consultas SQL para monitoramento de faturamento e indicadores de performance financeira.
 
 Este projeto tem como objetivo criar um **painel interativo de monitoramento de vendas** utilizando:  
