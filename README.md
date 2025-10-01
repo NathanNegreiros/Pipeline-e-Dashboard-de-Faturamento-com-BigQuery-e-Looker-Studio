@@ -83,7 +83,7 @@ O painel construído no Looker Studio permite diferentes formas de análise:
 - **Faturamento por ano** → comparação entre anos para avaliar crescimento ou retração.  
 
 ### Imagem e link do Dashboard:  
-![Imagem do Dash](imagem.png)
+![Imagem do Dash](Imagem.png)
 
 ---
 https://lookerstudio.google.com/u/0/reporting/edb24dc7-37c4-4faf-9aad-b249303a2d19/page/xFDaF
