@@ -82,12 +82,11 @@ O painel construído no Looker Studio permite diferentes formas de análise:
 - **Top produtos vendidos** → produtos que mais geraram receita e quantidade vendida.  
 - **Faturamento por ano** → comparação entre anos para avaliar crescimento ou retração.  
 
-### Imagem e link do Dashboard:  
+### Link do Dashboard: https://lookerstudio.google.com/u/0/reporting/edb24dc7-37c4-4faf-9aad-b249303a2d19/page/xFDaF  
+
 ![Imagem do Dash](imagem.png)
 
 ---
-https://lookerstudio.google.com/u/0/reporting/edb24dc7-37c4-4faf-9aad-b249303a2d19/page/xFDaF
-
 ## Possíveis Insights  
 
 Com esse painel é possível extrair diversos insights estratégicos, como:  
