@@ -65,3 +65,61 @@ LEFT JOIN `e-commerce-420222.vendas.Produto` AS p
     ON v.product_id = p.id
 LEFT JOIN `e-commerce-420222.vendas.Categoria` AS c
     ON p.category_id = c.id;
+
+Essa query unifica vendas, pedidos, produtos e categorias, permitindo alimentar diretamente o Looker Studio e manter o dashboard sempre atualizado automaticamente.
+
+📈 Painel no Looker Studio
+
+O painel construído no Looker Studio permite diferentes formas de análise:
+
+🔍 Busca por pedido
+
+Ao digitar o número de um pedido, todos os gráficos são atualizados automaticamente para mostrar somente os dados daquele pedido.
+
+📦 Quantidade de produtos e 💰 Faturamento total
+
+Indicadores principais que mostram a quantidade de itens vendidos e o valor total de faturamento acumulado.
+
+✅ Filtros por status
+
+Permite acompanhar pedidos entregues, pendentes, cancelados e em carrinho.
+
+📅 Filtros por mês e ano
+
+Facilitam a análise temporal, permitindo selecionar períodos específicos.
+
+🏷 Faturamento por categoria
+
+Mostra quais categorias são mais relevantes em faturamento.
+
+📊 Faturamento ao longo dos meses
+
+Ajuda a identificar sazonalidade, promoções e quedas de vendas.
+
+📌 Top produtos vendidos
+
+Lista os produtos que mais geraram receita e quantidade vendida.
+
+📆 Faturamento por ano
+
+Permite comparar anos diferentes para avaliar o crescimento ou retração do negócio.
+
+💡 Insights Possíveis
+
+Com esse painel é possível extrair diversos insights estratégicos para o negócio, como:
+
+Identificar quais categorias geram maior faturamento (ex.: Celulares e Eletrodomésticos).
+
+Descobrir os produtos mais vendidos e direcionar estratégias de marketing.
+
+Acompanhar a evolução do faturamento ao longo dos meses e detectar quedas ou picos de vendas.
+
+Comparar o desempenho ano a ano e avaliar o crescimento ou retração.
+
+Monitorar status de pedidos e identificar gargalos (ex.: muitos pedidos pendentes ou cancelados).
+
+Analisar o impacto de sazonalidade em determinados períodos (ex.: promoções ou datas comemorativas).
+
+🚀 Objetivo
+
+O objetivo principal é fornecer uma ferramenta de monitoramento de vendas em tempo real, permitindo que gestores e analistas consigam explorar os dados de forma interativa, desde o detalhe de um pedido específico até a visão geral da empresa.
